@@ -1,5 +1,6 @@
 # Mapas de Fede Vigevani en Minecraft
-Todos los mapas de Minecraft que jugó Fede Vigevani en su canal de juegos, [FedeGames](https://www.youtube.com/@FedeGames7).
+Casi todos los mapas de Minecraft que jugó Fede Vigevani en su canal de juegos, [FedeGames](https://www.youtube.com/@FedeGames7).
+Hay mapas que no pude encontrar debido a lo desconocidos que son.
 
 # ¿Cómo pongo los mundos en mi Minecraft?
 Hay una carpeta en los archivos del juego que se llama `saves`, en `Users\(tu usuario)\AppData\Roaming\.minecraft`  ponlos ahí.
