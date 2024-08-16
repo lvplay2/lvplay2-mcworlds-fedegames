@@ -2,7 +2,7 @@
 Todos los mapas de Minecraft que jugó Fede Vigevani en su canal de juegos, [FedeGames](https://www.youtube.com/@FedeGames7).
 
 # ¿Cómo pongo los mundos en mi Minecraft?
-Hay una carpeta en los archivos del juego que se llama `saves`, ponlos ahí.
+Hay una carpeta en los archivos del juego que se llama `saves`, en `Users\(tu usuario)\AppData\Roaming\.minecraft`  ponlos ahí.
 Si estás usando Java, pon el archivo que diga Java, y con Bedrock lo mismo.
 
 # Aviso
